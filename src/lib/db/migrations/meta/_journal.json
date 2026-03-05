@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1772404494810,
+      "tag": "0000_sudden_marrow",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1772566069381,
+      "tag": "0001_magical_enchantress",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1772578782794,
+      "tag": "0002_yellow_odin",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1772722839303,
+      "tag": "0003_stormy_dust",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1772744872157,
+      "tag": "0004_vengeful_barracuda",
+      "breakpoints": true
+    }
+  ]
+}
